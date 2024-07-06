@@ -40,4 +40,4 @@ Python
 📱Contatos
 
 📧 Email: jaquelinesilvamouras@outlook.com
-🔗 LinkedIn: [Seu LinkedIn](https://[www.linkedin.com/in/jaquemoura/))
+🔗 LinkedIn: [Seu LinkedIn](https://[www.linkedin.com/in/jaquemoura)

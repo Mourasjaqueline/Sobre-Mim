@@ -38,6 +38,3 @@ Python
 
 
 📱Contatos
-
-📧 Email: jaquelinesilvamouras@outlook.com
-🔗 LinkedIn: [Seu LinkedIn](https://[www.linkedin.com/jaquemoura)

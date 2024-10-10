@@ -1,13 +1,11 @@
 Seja muito(a) bem vindo(a) ao meu perfil do GitHub 👋
 
-
-Há pouco mais de três anos, fiz uma transição de carreira e hoje sou Analista de QA, focando em desenvolvimento e aprimoramento contínuo.
+Sou Analista de Qualidade de Software com mais de três anos de experiência, focada em garantir a excelência de produtos digitais. Minha trajetória abrange desde a execução de testes manuais até a implementação de processos de qualidade, sempre com o objetivo de aumentar a eficiência e o valor entregue ao cliente.
 
 
 🎯 Objetivo:
 
-
-Este repositório visa documentar os projetos que estou desenvolvendo através de estudos para me aprimorar profissionalmente. 
+Este repositório tem como objetivo documentar projetos práticos que realizo para aprimorar minhas habilidades em QA. Eles são focados em testes manuais, gestão de testes, levantamento de bugs e melhoria de processos em ambientes de desenvolvimento ágil. 
 
 
 🤝Soft Skills:

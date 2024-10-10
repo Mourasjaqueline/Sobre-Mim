@@ -1,14 +1,14 @@
-Seja muito(a) bem vindo(a) ao meu perfil do GitHub 👋
+**Seja muito(a) bem vindo(a) ao meu perfil do GitHub 👋**
 
 Sou Analista de Qualidade de Software com mais de três anos de experiência, focada em garantir a excelência de produtos digitais. Minha trajetória abrange desde a execução de testes manuais até a implementação de processos de qualidade, sempre com o objetivo de aumentar a eficiência e o valor entregue ao cliente.
 
 
-🎯 Objetivo:
+🎯 **Objetivo:**
 
 Este repositório tem como objetivo documentar projetos práticos que realizo para aprimorar minhas habilidades em QA. Eles são focados em testes manuais, gestão de testes, levantamento de bugs e melhoria de processos em ambientes de desenvolvimento ágil. 
 
 
-🤝Soft Skills:
+**🤝Soft Skills:**
 
 Boa comunicação,
 Proatividade,
@@ -20,7 +20,7 @@ Empatia,
 
 
 
-🛠️Hard Skills:
+**🛠️Hard Skills:**
 
 Ferramentas de gestão de testes como Zephyr, AIO Test, Quality e TestLink,
 Ferramentas de bug tracking como Mantis,
@@ -29,10 +29,11 @@ Ferramentas para testes de API como Postman e Swagger
 
 
 
-🐍Linguagem de Programação em Desenvolvimento:
+**🐍Linguagem de Programação em Desenvolvimento:**
 
 Python
 
 
 
-📱Contatos
+📱**Contatos**
+jaquelinesilvamouras@outlook.com

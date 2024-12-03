@@ -24,8 +24,12 @@ Empatia,
 
 Ferramentas de gestão de testes como Zephyr, AIO Test, Quality e TestLink,
 Ferramentas de bug tracking como Mantis,
-Ferramentas de gerenciamento de projetos como Asana, Trello e Jira,
+Ferramentas de gerenciamento de projetos como Asana, Trello, Jira e Monday
 Ferramentas para testes de API como Postman e Swagger
+Microsoft Office Planner, to do list, excel, powerpoint, word, power bi, oe note e outlook 
+G Suíte Planihas, documentos, Formulários Google, Google Meet, Google Analytics,
+Ferramentas de comuncação como Tems, Google Chat, Discord e Slack.
+
 
 
 

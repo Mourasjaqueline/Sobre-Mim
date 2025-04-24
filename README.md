@@ -1,6 +1,6 @@
 **Seja muito(a) bem vindo(a) ao meu perfil do GitHub 👋**
 
-Sou Analista de Qualidade de Software com mais de três anos de experiência, focada em garantir a excelência de produtos digitais. Minha trajetória abrange desde a execução de testes manuais até a implementação de processos de qualidade, sempre com o objetivo de aumentar a eficiência e o valor entregue ao cliente.
+Sou Analista de Qualidade de Software com mais de três anos de experiência, focada em garantir a excelência de produtos digitais. Minha trajetória abrange desde a execução de testes manuais até a implementação de processos de qualidade, sempre com o objetivo de aumentar a eficiência e o valor entregue ao cliente. Nas últimas semanas tenho me dedicado ao aprendizado de automção com Robot Framework.
 
 
 🎯 **Objetivo:**

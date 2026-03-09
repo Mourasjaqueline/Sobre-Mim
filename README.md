@@ -1,6 +1,6 @@
 **Seja muito(a) bem vindo(a) ao meu perfil do GitHub 👋**
 
-Sou Analista de Qualidade de Software com mais de três anos de experiência, focada em garantir a excelência de produtos digitais. Minha trajetória abrange desde a execução de testes manuais até a implementação de processos de qualidade, sempre com o objetivo de aumentar a eficiência e o valor entregue ao cliente. Nas últimas semanas tenho me dedicado ao aprendizado de automção com Robot Framework.
+Sou Analista de Qualidade de Software com mais de três anos de experiência, focada em garantir a qualidade de produtos digitais. Minha trajetória abrange desde a execução de testes manuais até a implementação de processos de qualidade, sempre com o objetivo de aumentar a eficiência e o valor entregue ao cliente. Nas últimas semanas tenho me dedicado ao aprendizado de automção com Cypress.
 
 
 🎯 **Objetivo:**
@@ -10,13 +10,13 @@ Este repositório tem como objetivo documentar projetos práticos que realizo pa
 
 **🤝Soft Skills:**
 
-Boa comunicação,
-Proatividade,
-Facilidade no trabalho em equipe,
-Visão sistêmica,
-Autogestão,
-Pensamento crítico,
-Empatia,
+Boa comunicação
+Proatividade
+Facilidade no trabalho em equipe
+Visão sistêmica
+Autogestão
+Pensamento crítico
+Empatia
 
 
 
@@ -25,7 +25,7 @@ Empatia,
 Ferramentas de gestão de testes como Zephyr, AIO Test, Quality, Tricentis, Zephyr e TestLink,
 Ferramentas de bug tracking como Mantis,
 Ferramentas de gerenciamento de projetos como Asana, Trello, Jira e Monday
-Ferramentas para testes de API como Postman e Swagger
+Ferramentas para testes de API como Postman
 Microsoft Office Planner, to do list, excel, powerpoint, word, power bi, one note e outlook 
 G Suíte Planihas, documentos, Formulários Google, Google Meet, Google Analytics,
 Ferramentas de comunicação como Teams, Google Chat, Discord e Slack.
@@ -36,7 +36,7 @@ Ferramentas de comunicação como Teams, Google Chat, Discord e Slack.
 **🐍Linguagem de Programação em Desenvolvimento:**
 
 Python
-
+JavaScript
 
 
 📱**Contatos**
